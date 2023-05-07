@@ -33,22 +33,25 @@
     margin-bottom: 10px;
 }
 #img-1{
-    background-image: url('../img/tenis1.jpg');
+    background-image: url('../img/signature.png');
 }
 #img-2{
-    background-image: url('../img/tenis2.jpg');
+    background-image: url('../img/essencial-unico.png');
 }
 #img-3{
-    background-image: url('../img/tenis3.jpg');
+    background-image: url('../img/burbon.png');
 }
 #img-4{
-    background-image: url('../img/tenis4.jpg');
+    background-image: url('../img/zaad-go.jpg');
 }
 #img-5{
-    background-image: url('../img/tenis5.jpg');
+    background-image: url('../img/zaad-expedition.png');
 }
 #img-6{
-    background-image: url('../img/tenis6.jpg');
+    background-image: url('../img/coragio.png');
+}
+#descricao{
+    height: 40px;
 }
 h3{
    margin-bottom: 5px;
@@ -80,4 +83,4 @@ footer {
     text-align: center;
     padding: 80px;
     color: #fff;
-  }
+}
