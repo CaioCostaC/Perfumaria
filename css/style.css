@@ -10,3 +10,46 @@
     text-align: center;
     padding: 15px;
 }
+.container{
+    background: #eee;
+    min-height: 60vh;
+    padding: 50px;
+    border: red solid 5px;
+}
+.products-container{
+    background-color: purple;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+.cards{
+    background: red;
+    width: 31%;
+    margin: 1% 1%;
+    display: inline-block;
+    padding: 15px;
+}
+.product-image{
+    background: blue;
+    height: 300px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+#img-1{
+    background-image: url('../img/tenis1.jpg');
+}
+#img-2{
+    background-image: url('../img/tenis2.jpg');
+}
+#img-3{
+    background-image: url('../img/tenis3.jpg');
+}
+#img-4{
+    background-image: url('../img/tenis4.jpg');
+}
+#img-5{
+    background-image: url('../img/tenis5.jpg');
+}
+#img-6{
+    background-image: url('../img/tenis6.jpg');
+}
