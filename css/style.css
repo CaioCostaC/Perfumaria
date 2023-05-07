@@ -30,6 +30,7 @@
     width: 100%;
     background-position: center;
     background-size: cover;
+    margin-bottom: 10px;
 }
 #img-1{
     background-image: url('../img/tenis1.jpg');
@@ -49,3 +50,34 @@
 #img-6{
     background-image: url('../img/tenis6.jpg');
 }
+h3{
+   margin-bottom: 5px;
+   color: #3db36b;
+   font-size: 24px;
+}
+.cards p{
+    margin-bottom: 10px;
+}
+.bold{
+    font-weight: bold;
+}
+.btn{
+    display: block;
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: #3db36b;
+    color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+}
+.btn:hover{
+    background-color:#0f642f;
+}
+footer {
+    background-color: #3db36b;
+    text-align: center;
+    padding: 80px;
+    color: #fff;
+  }
