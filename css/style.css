@@ -1,3 +1,12 @@
-body{
-    background: #dcdcdb;
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica;
+    box-sizing: border-box;
+}
+.header{
+    background: #3cb46c;
+    color: #fff ;
+    text-align: center;
+    padding: 15px;
 }
